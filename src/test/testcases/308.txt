@@ -1,0 +1,7 @@
+
+procedure foo();
+begin
+    if a = 1 then b := 2; else begin
+        c := 4
+    end;
+end

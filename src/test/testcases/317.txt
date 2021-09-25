@@ -1,0 +1,5 @@
+
+procedure foo();
+begin
+    for i := to 10 do ok();
+end

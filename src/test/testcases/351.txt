@@ -1,0 +1,7 @@
+
+procedure foo();
+begin
+    function foo():real;
+    begin
+    end
+end

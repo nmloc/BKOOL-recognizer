@@ -1,0 +1,5 @@
+
+procedure foo();
+begin
+    while i do ok();
+end

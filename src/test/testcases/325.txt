@@ -1,0 +1,5 @@
+
+procedure foo();
+begin
+    loop i<4 do ok();
+end

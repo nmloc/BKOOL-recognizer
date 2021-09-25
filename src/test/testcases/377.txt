@@ -1,0 +1,2 @@
+
+var a : array[5 + (1 * 4/ 2) .. 14] of string;
